@@ -17,6 +17,8 @@
 // // returns ''
 // Note: all the hashes are pre-validated and will only contain A-Z, a-z, '-' and '.'.
 
+//6kyu
+
 function list(names) {
     let str = '';
     names.map(element => {
