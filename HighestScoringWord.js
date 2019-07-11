@@ -8,6 +8,8 @@
 
 // All letters will be lowercase and all inputs will be valid.
 
+//6 kyu
+
 function high(x) {
     let key = {
         a: 1,
